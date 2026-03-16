@@ -44,10 +44,3 @@ $$IoU = \frac{|A \cap B|}{|A \cup B|} = \frac{TP}{TP+FP+FN}$$
 * **Accuracy:** 0.9721
 * **Precision:** 0.9067
 * **AUC:** 0.9936
-
-## Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/monuseg-attention-unet.git](https://github.com/yourusername/monuseg-attention-unet.git)
-   cd monuseg-attention-unet
